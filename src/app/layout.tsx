@@ -29,8 +29,8 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <Container>
-          <div className="h-[52px] flex justify-center items-center rounded-t-md bg-black text-white shadow-xl">
-            height-52px (Navbar)
+          <div className="h-[52px] flex justify-center text-[24px] items-center rounded-t-md bg-black text-white shadow-xl">
+            height-52px (Navbar) , Text Size - 24px
           </div>
           {children}
         </Container>
