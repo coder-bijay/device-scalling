@@ -7,12 +7,12 @@ const Home = () => {
       <div className="flex flex-col gap-1 items-center 2xl:hidden">
         <p>Hello from Home </p>
         <p>Text Size - 48px</p>
-        <p>Overall Screen Height - 686px</p>
+        <p>Overall Screen Height for 1536px (i.e 125% scale of 1920) - 686px</p>
       </div>
       <div className="hidden flex-col gap-1 items-center 2xl:flex">
         <p>Hello from Home </p>
         <p>Text Size - 52px</p>
-        <p>Overall Screen Height - 954px</p>
+        <p>Overall Screen Height for 1920px (i.e 100% scale of 1920) - 954px</p>
       </div>
     </div>
   );
