@@ -10,7 +10,7 @@ const Home = () => {
       </div>
       <div className="hidden flex-col gap-1 items-center 2xl:flex">
         <p>Hello from Home </p>
-        <p>Text Size - 52px</p>
+        <p>Text Size - 44px</p>
       </div>
     </div>
   );
